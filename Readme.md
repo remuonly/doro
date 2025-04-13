@@ -1,1 +1,3 @@
 repo doro
+
+language: Go
